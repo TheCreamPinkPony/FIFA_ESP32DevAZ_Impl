@@ -9,6 +9,8 @@
 #define pFeature2 = 32
 #define pFeature3 = 33
 
+#define sds = 2
+
 
 void setup() {
   // put your setup code here, to run once:
